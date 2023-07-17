@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //d 집에서 작업 했음
+        //g 학원에서 작업 했음
     }
 }
