@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //d 집에서 작업 했음
         //g 학원에서 작업 했음
+        //f 학원에서 3번째 작업 중
     }
 }
